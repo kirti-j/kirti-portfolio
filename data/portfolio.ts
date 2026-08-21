@@ -9,7 +9,7 @@ export const portfolioData = {
 
     location: "Mumbai, India",
 
-    github: "https://github.com/kirti-j",
+    github: "https://github.com/Kirti2007",
 
     linkedin: "linkedin.com/in/kirti-jadhav-122237348",
 
@@ -114,7 +114,7 @@ projects: [
       "Streamlit Deployment"
     ],
 
-    github: "https://github.com/kirti-j/loan-default-prediction",
+    github: "https://github.com/Kirti2007/loan-default-prediction",
 
     demo: "https://loan-default-prediction-gx5aqxfhnffzcyue7dqsv6.streamlit.app/",
 
@@ -143,7 +143,7 @@ projects: [
       "Dashboarding"
     ],
 
-    github: "https://github.com/kirti-j/Telcom_customer_churn_analysis",
+    github: "https://github.com/Kirti2007/Telcom_customer_churn_analysis",
 
     demo: "#",
 
@@ -172,7 +172,7 @@ projects: [
       "Reports"
     ],
 
-    github: "https://github.com/kirti-j/SmartExpenseTracker",
+    github: "https://github.com/Kirti2007/SmartExpenseTracker",
 
     demo: "#",
 
@@ -201,7 +201,7 @@ projects: [
       "Interactive Dashboard"
     ],
 
-    github: "https://github.com/kirti-j/fake-job-detection-dashboard",
+    github: "https://github.com/Kirti2007/fake-job-detection-dashboard",
 
     demo: "#",
 

@@ -49,7 +49,7 @@ export default function Hero() {
           <div className="flex gap-4 mt-8">
 
             <a
-              href={portfolioData.personal.resume}
+              href={`/${portfolioData.personal.resume}`}
               target="_blank"
               className="px-6 py-3 rounded-xl bg-yellow-500 text-black font-semibold"
             >

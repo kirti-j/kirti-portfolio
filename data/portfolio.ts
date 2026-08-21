@@ -13,7 +13,7 @@ export const portfolioData = {
 
     linkedin: "linkedin.com/in/kirti-jadhav-122237348",
 
-    resume: "Kirti_Updated_Resume (1).pdf",
+    resume: "Kirti_Updated_Resume.pdf",
 
     image: "/profile.jpg"
   },

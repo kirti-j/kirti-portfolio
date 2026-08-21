@@ -49,8 +49,8 @@ export default function Hero() {
           <div className="flex gap-4 mt-8">
 
             <a
-              href={`/${portfolioData.personal.resume}`}
-              target="_blank"
+              href={portfolioData.personal.resume}
+              download="Kirti_Updated_Resume.pdf"
               className="px-6 py-3 rounded-xl bg-yellow-500 text-black font-semibold"
             >
               Resume

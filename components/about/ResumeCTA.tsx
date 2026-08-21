@@ -23,7 +23,7 @@ export default function ResumeCTA() {
 
           <a
             href={portfolioData.personal.resume}
-            target="_blank"
+            download="Kirti_Updated_Resume.pdf"
             className="
             inline-block
             mt-8
